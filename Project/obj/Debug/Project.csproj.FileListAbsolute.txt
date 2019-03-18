@@ -1,0 +1,313 @@
+C:\Users\Husu\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Husu\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Project.exe
+C:\Users\Husu\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Project.pdb
+C:\Users\Husu\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.AdminPanel.resources
+C:\Users\Husu\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\Husu\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.Panel.resources
+C:\Users\Husu\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Husu\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Husu\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.exe
+C:\Users\Husu\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.pdb
+C:\Users\Husu\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Project.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Project.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Project.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.AddPersonnel.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.AdminPanel.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.AdmUpdatePersonnel.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.Panel.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Husu\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.csproj.ResolveComReference.cache
+C:\Users\nuuriyev\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Project.exe.config
+C:\Users\nuuriyev\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.csproj.ResolveComReference.cache
+C:\Users\nuuriyev\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.exe
+C:\Users\nuuriyev\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.pdb
+C:\Users\nuuriyev\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\nuuriyev\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\nuuriyev\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.Panel.resources
+C:\Users\nuuriyev\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\nuuriyev\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\nuuriyev\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Project.exe
+C:\Users\nuuriyev\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Project.pdb
+C:\Users\nuuriyev\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.AdminPanel.resources
+C:\Users\nuuriyev\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.ForgetPassword.resources
+C:\Users\nuuriyev\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.AddQusetion.resources
+C:\Users\nuuriyev\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.TeacherMenu.resources
+C:\Users\nuuriyev\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.AddTeacher.resources
+C:\Users\nuuriyev\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.AddCourse.resources
+C:\Users\nuuriyev\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.AddDepartment.resources
+C:\Users\nuuriyev\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.Semester.resources
+C:\Users\Husu\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.AddCourse.resources
+C:\Users\Husu\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.AddDepartment.resources
+C:\Users\Husu\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.AddQusetion.resources
+C:\Users\Husu\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.ForgetPassword.resources
+C:\Users\Husu\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.AddTeacher.resources
+C:\Users\Husu\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.Semester.resources
+C:\Users\Husu\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.TeacherMenu.resources
+C:\Users\GUNEY\Desktop\25\Proje\Project\Project\bin\Debug\Project.exe.config
+C:\Users\GUNEY\Desktop\25\Proje\Project\Project\obj\Debug\Project.csproj.ResolveComReference.cache
+C:\Users\GUNEY\Desktop\25\Proje\Project\Project\obj\Debug\Project.exe
+C:\Users\GUNEY\Desktop\25\Proje\Project\Project\obj\Debug\Project.pdb
+C:\Users\GUNEY\Desktop\25\Proje\Project\Project\bin\Debug\Project.exe
+C:\Users\GUNEY\Desktop\25\Proje\Project\Project\bin\Debug\Project.pdb
+C:\Users\GUNEY\Desktop\25\Proje\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\GUNEY\Desktop\25\Proje\Project\Project\obj\Debug\Project.AddCourse.resources
+C:\Users\GUNEY\Desktop\25\Proje\Project\Project\obj\Debug\Project.AddDepartment.resources
+C:\Users\GUNEY\Desktop\25\Proje\Project\Project\obj\Debug\Project.AddQusetion.resources
+C:\Users\GUNEY\Desktop\25\Proje\Project\Project\obj\Debug\Project.ForgetPassword.resources
+C:\Users\GUNEY\Desktop\25\Proje\Project\Project\obj\Debug\Project.AdminPanel.resources
+C:\Users\GUNEY\Desktop\25\Proje\Project\Project\obj\Debug\Project.AddTeacher.resources
+C:\Users\GUNEY\Desktop\25\Proje\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\GUNEY\Desktop\25\Proje\Project\Project\obj\Debug\Project.Panel.resources
+C:\Users\GUNEY\Desktop\25\Proje\Project\Project\obj\Debug\Project.Semester.resources
+C:\Users\GUNEY\Desktop\25\Proje\Project\Project\obj\Debug\Project.TeacherMenu.resources
+C:\Users\GUNEY\Desktop\25\Proje\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\GUNEY\Desktop\25\Proje\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\GUNEY\Desktop\Proje\Project\Project\bin\Debug\Project.exe.config
+C:\Users\GUNEY\Desktop\Proje\Project\Project\obj\Debug\Project.csproj.ResolveComReference.cache
+C:\Users\GUNEY\Desktop\Proje\Project\Project\obj\Debug\Project.exe
+C:\Users\GUNEY\Desktop\Proje\Project\Project\obj\Debug\Project.pdb
+C:\Users\GUNEY\Desktop\Proje\Project\Project\bin\Debug\Project.exe
+C:\Users\GUNEY\Desktop\Proje\Project\Project\bin\Debug\Project.pdb
+C:\Users\GUNEY\Desktop\Proje\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\GUNEY\Desktop\Proje\Project\Project\obj\Debug\Project.AddCourse.resources
+C:\Users\GUNEY\Desktop\Proje\Project\Project\obj\Debug\Project.AddDepartment.resources
+C:\Users\GUNEY\Desktop\Proje\Project\Project\obj\Debug\Project.AddQusetion.resources
+C:\Users\GUNEY\Desktop\Proje\Project\Project\obj\Debug\Project.ForgetPassword.resources
+C:\Users\GUNEY\Desktop\Proje\Project\Project\obj\Debug\Project.AdminPanel.resources
+C:\Users\GUNEY\Desktop\Proje\Project\Project\obj\Debug\Project.AddTeacher.resources
+C:\Users\GUNEY\Desktop\Proje\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\GUNEY\Desktop\Proje\Project\Project\obj\Debug\Project.Panel.resources
+C:\Users\GUNEY\Desktop\Proje\Project\Project\obj\Debug\Project.Semester.resources
+C:\Users\GUNEY\Desktop\Proje\Project\Project\obj\Debug\Project.TeacherMenu.resources
+C:\Users\GUNEY\Desktop\Proje\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\GUNEY\Desktop\Proje\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\GUNEY\Desktop\Proje\Project\Project\obj\Debug\Project.FrmReports.resources
+C:\Users\nuuriyev\Desktop\Proje\Project\Project\bin\Debug\Project.exe.config
+C:\Users\nuuriyev\Desktop\Proje\Project\Project\obj\Debug\Project.csproj.ResolveComReference.cache
+C:\Users\nuuriyev\Desktop\Proje\Project\Project\obj\Debug\Project.exe
+C:\Users\nuuriyev\Desktop\Proje\Project\Project\obj\Debug\Project.pdb
+C:\Users\nuuriyev\Desktop\Proje\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\nuuriyev\Desktop\Proje\Project\Project\obj\Debug\Project.AddCourse.resources
+C:\Users\nuuriyev\Desktop\Proje\Project\Project\obj\Debug\Project.AddDepartment.resources
+C:\Users\nuuriyev\Desktop\Proje\Project\Project\obj\Debug\Project.AddQusetion.resources
+C:\Users\nuuriyev\Desktop\Proje\Project\Project\obj\Debug\Project.ForgetPassword.resources
+C:\Users\nuuriyev\Desktop\Proje\Project\Project\obj\Debug\Project.AdminPanel.resources
+C:\Users\nuuriyev\Desktop\Proje\Project\Project\obj\Debug\Project.AddTeacher.resources
+C:\Users\nuuriyev\Desktop\Proje\Project\Project\obj\Debug\Project.FrmReports.resources
+C:\Users\nuuriyev\Desktop\Proje\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\nuuriyev\Desktop\Proje\Project\Project\obj\Debug\Project.Panel.resources
+C:\Users\nuuriyev\Desktop\Proje\Project\Project\obj\Debug\Project.Semester.resources
+C:\Users\nuuriyev\Desktop\Proje\Project\Project\obj\Debug\Project.TeacherMenu.resources
+C:\Users\nuuriyev\Desktop\Proje\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\nuuriyev\Desktop\Proje\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\nuuriyev\Desktop\Proje\Project\Project\bin\Debug\Project.exe
+C:\Users\nuuriyev\Desktop\Proje\Project\Project\bin\Debug\Project.pdb
+C:\Users\nuuriyev\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\nuuriyev\Desktop\Project\Project\obj\Debug\Project.csproj.ResolveComReference.cache
+C:\Users\nuuriyev\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\nuuriyev\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\nuuriyev\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\nuuriyev\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\nuuriyev\Desktop\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\nuuriyev\Desktop\Project\Project\obj\Debug\Project.AddCourse.resources
+C:\Users\nuuriyev\Desktop\Project\Project\obj\Debug\Project.AddDepartment.resources
+C:\Users\nuuriyev\Desktop\Project\Project\obj\Debug\Project.AddQusetion.resources
+C:\Users\nuuriyev\Desktop\Project\Project\obj\Debug\Project.ForgetPassword.resources
+C:\Users\nuuriyev\Desktop\Project\Project\obj\Debug\Project.AdminPanel.resources
+C:\Users\nuuriyev\Desktop\Project\Project\obj\Debug\Project.AddTeacher.resources
+C:\Users\nuuriyev\Desktop\Project\Project\obj\Debug\Project.FrmReports.resources
+C:\Users\nuuriyev\Desktop\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\nuuriyev\Desktop\Project\Project\obj\Debug\Project.Panel.resources
+C:\Users\nuuriyev\Desktop\Project\Project\obj\Debug\Project.Semester.resources
+C:\Users\nuuriyev\Desktop\Project\Project\obj\Debug\Project.TeacherMenu.resources
+C:\Users\nuuriyev\Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\nuuriyev\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Husu\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Husu\Desktop\Project\Project\obj\Debug\Project.csproj.ResolveComReference.cache
+C:\Users\Husu\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\Husu\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\Husu\Desktop\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Husu\Desktop\Project\Project\obj\Debug\Project.AddCourse.resources
+C:\Users\Husu\Desktop\Project\Project\obj\Debug\Project.AddDepartment.resources
+C:\Users\Husu\Desktop\Project\Project\obj\Debug\Project.AddQusetion.resources
+C:\Users\Husu\Desktop\Project\Project\obj\Debug\Project.ForgetPassword.resources
+C:\Users\Husu\Desktop\Project\Project\obj\Debug\Project.AdminPanel.resources
+C:\Users\Husu\Desktop\Project\Project\obj\Debug\Project.AddTeacher.resources
+C:\Users\Husu\Desktop\Project\Project\obj\Debug\Project.FrmReports.resources
+C:\Users\Husu\Desktop\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\Husu\Desktop\Project\Project\obj\Debug\Project.Semester.resources
+C:\Users\Husu\Desktop\Project\Project\obj\Debug\Project.TeacherMenu.resources
+C:\Users\Husu\Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Husu\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Husu\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\Husu\Desktop\Project\Project\bin\Debug\Project.pdb
+D:\nuuriyev\ekran\Project\Project\bin\Debug\Project.exe.config
+D:\nuuriyev\ekran\Project\Project\obj\Debug\Project.csproj.ResolveComReference.cache
+D:\nuuriyev\ekran\Project\Project\obj\Debug\Project.exe
+D:\nuuriyev\ekran\Project\Project\obj\Debug\Project.pdb
+D:\nuuriyev\ekran\Project\Project\bin\Debug\Project.exe
+D:\nuuriyev\ekran\Project\Project\bin\Debug\Project.pdb
+D:\nuuriyev\ekran\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\nuuriyev\ekran\Project\Project\obj\Debug\Project.AddCourse.resources
+D:\nuuriyev\ekran\Project\Project\obj\Debug\Project.AddDepartment.resources
+D:\nuuriyev\ekran\Project\Project\obj\Debug\Project.AddQusetion.resources
+D:\nuuriyev\ekran\Project\Project\obj\Debug\Project.ForgetPassword.resources
+D:\nuuriyev\ekran\Project\Project\obj\Debug\Project.AdminPanel.resources
+D:\nuuriyev\ekran\Project\Project\obj\Debug\Project.AddTeacher.resources
+D:\nuuriyev\ekran\Project\Project\obj\Debug\Project.FrmReports.resources
+D:\nuuriyev\ekran\Project\Project\obj\Debug\Project.Login.resources
+D:\nuuriyev\ekran\Project\Project\obj\Debug\Project.Panel.resources
+D:\nuuriyev\ekran\Project\Project\obj\Debug\Project.Semester.resources
+D:\nuuriyev\ekran\Project\Project\obj\Debug\Project.TeacherMenu.resources
+D:\nuuriyev\ekran\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\nuuriyev\ekran\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\nuuriyev\ekran\Oracle\Project\Project\bin\Debug\Project.exe.config
+D:\nuuriyev\ekran\Oracle\Project\Project\obj\Debug\Project.csproj.ResolveComReference.cache
+D:\nuuriyev\ekran\Oracle\Project\Project\obj\Debug\Project.exe
+D:\nuuriyev\ekran\Oracle\Project\Project\obj\Debug\Project.pdb
+D:\nuuriyev\ekran\Oracle\Project\Project\bin\Debug\Project.exe
+D:\nuuriyev\ekran\Oracle\Project\Project\bin\Debug\Project.pdb
+D:\nuuriyev\ekran\Oracle\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\nuuriyev\ekran\Oracle\Project\Project\obj\Debug\Project.AddCourse.resources
+D:\nuuriyev\ekran\Oracle\Project\Project\obj\Debug\Project.AddDepartment.resources
+D:\nuuriyev\ekran\Oracle\Project\Project\obj\Debug\Project.AddQusetion.resources
+D:\nuuriyev\ekran\Oracle\Project\Project\obj\Debug\Project.ForgetPassword.resources
+D:\nuuriyev\ekran\Oracle\Project\Project\obj\Debug\Project.AdminPanel.resources
+D:\nuuriyev\ekran\Oracle\Project\Project\obj\Debug\Project.AddTeacher.resources
+D:\nuuriyev\ekran\Oracle\Project\Project\obj\Debug\Project.FrmReports.resources
+D:\nuuriyev\ekran\Oracle\Project\Project\obj\Debug\Project.Login.resources
+D:\nuuriyev\ekran\Oracle\Project\Project\obj\Debug\Project.Panel.resources
+D:\nuuriyev\ekran\Oracle\Project\Project\obj\Debug\Project.Semester.resources
+D:\nuuriyev\ekran\Oracle\Project\Project\obj\Debug\Project.TeacherMenu.resources
+D:\nuuriyev\ekran\Oracle\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\nuuriyev\ekran\Oracle\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Husu\Desktop\Project\Project\obj\Debug\Project.FrmChapters.resources
+C:\Users\Husu\Desktop\Project\Project\obj\Debug\Project.FrmPersonelsCourses.resources
+C:\Users\User\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\User\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\User\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.AddCourse.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.AddDepartment.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.AddQusetion.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.ForgetPassword.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.AdminPanel.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.AddTeacher.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.FrmChapters.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.FrmPersonelsCourses.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.FrmReports.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.Semester.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.TeacherMenu.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\Hex33\Code\Project\Project\bin\Debug\Project.exe.config
+D:\Hex33\Code\Project\Project\bin\Debug\Project.exe
+D:\Hex33\Code\Project\Project\bin\Debug\Project.pdb
+D:\Hex33\Code\Project\Project\bin\Debug\FastReport.Bars.dll
+D:\Hex33\Code\Project\Project\bin\Debug\FastReport.dll
+D:\Hex33\Code\Project\Project\bin\Debug\FastReport.Editor.dll
+D:\Hex33\Code\Project\Project\bin\Debug\FastReport.xml
+D:\Hex33\Code\Project\Project\obj\Debug\Project.csproj.ResolveComReference.cache
+D:\Hex33\Code\Project\Project\obj\Debug\Project.AddCourse.resources
+D:\Hex33\Code\Project\Project\obj\Debug\Project.AddDepartment.resources
+D:\Hex33\Code\Project\Project\obj\Debug\Project.AddQusetion.resources
+D:\Hex33\Code\Project\Project\obj\Debug\Project.ForgetPassword.resources
+D:\Hex33\Code\Project\Project\obj\Debug\Project.AdminPanel.resources
+D:\Hex33\Code\Project\Project\obj\Debug\Project.AddTeacher.resources
+D:\Hex33\Code\Project\Project\obj\Debug\Project.FrmChapters.resources
+D:\Hex33\Code\Project\Project\obj\Debug\Project.FrmExamPaper.resources
+D:\Hex33\Code\Project\Project\obj\Debug\Project.FrmPersonelsCourses.resources
+D:\Hex33\Code\Project\Project\obj\Debug\Project.FrmReports.resources
+D:\Hex33\Code\Project\Project\obj\Debug\Project.Login.resources
+D:\Hex33\Code\Project\Project\obj\Debug\Project.Semester.resources
+D:\Hex33\Code\Project\Project\obj\Debug\Project.TeacherMenu.resources
+D:\Hex33\Code\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Hex33\Code\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\Hex33\Code\Project\Project\obj\Debug\Project.exe
+D:\Hex33\Code\Project\Project\obj\Debug\Project.pdb
+C:\Users\User\Desktop\New folder\Project\Project\bin\Debug\Project.exe.config
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.exe
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.pdb
+C:\Users\User\Desktop\New folder\Project\Project\bin\Debug\Project.exe
+C:\Users\User\Desktop\New folder\Project\Project\bin\Debug\Project.pdb
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.AddCourse.resources
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.AddDepartment.resources
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.AddQusetion.resources
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.ForgetPassword.resources
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.AdminPanel.resources
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.AddTeacher.resources
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.FrmChapters.resources
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.FrmExamPaper.resources
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.FrmPersonelsCourses.resources
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.FrmReports.resources
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.Semester.resources
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.TeacherMenu.resources
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.about.resources
+C:\Users\User\Desktop\New folder\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Project\Project\Project\bin\Debug\Project.exe.config
+C:\Project\Project\Project\obj\Debug\Project.csproj.ResolveComReference.cache
+C:\Project\Project\Project\obj\Debug\Project.exe
+C:\Project\Project\Project\obj\Debug\Project.pdb
+C:\Project\Project\Project\bin\Debug\Project.exe
+C:\Project\Project\Project\bin\Debug\Project.pdb
+C:\Project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Project\Project\Project\obj\Debug\Project.about.resources
+C:\Project\Project\Project\obj\Debug\Project.AddCourse.resources
+C:\Project\Project\Project\obj\Debug\Project.AddDepartment.resources
+C:\Project\Project\Project\obj\Debug\Project.AddQusetion.resources
+C:\Project\Project\Project\obj\Debug\Project.ForgetPassword.resources
+C:\Project\Project\Project\obj\Debug\Project.AdminPanel.resources
+C:\Project\Project\Project\obj\Debug\Project.AddTeacher.resources
+C:\Project\Project\Project\obj\Debug\Project.FrmChapters.resources
+C:\Project\Project\Project\obj\Debug\Project.FrmExamPaper.resources
+C:\Project\Project\Project\obj\Debug\Project.FrmPersonelsCourses.resources
+C:\Project\Project\Project\obj\Debug\Project.FrmReports.resources
+C:\Project\Project\Project\obj\Debug\Project.Login.resources
+C:\Project\Project\Project\obj\Debug\Project.Semester.resources
+C:\Project\Project\Project\obj\Debug\Project.TeacherMenu.resources
+C:\Project\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Project\Project\Project\bin\Debug\Project.exe.config
+C:\Users\User\Desktop\Project\Project\Project\obj\Debug\Project.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Project\Project\Project\obj\Debug\Project.exe
+C:\Users\User\Desktop\Project\Project\Project\obj\Debug\Project.pdb
+D:\Project\Project\obj\Debug\Project.exe
+D:\Project\Project\obj\Debug\Project.pdb
+D:\Project\Project\bin\Debug\Project.exe.config
+D:\Project\Project\bin\Debug\Project.exe
+D:\Project\Project\bin\Debug\Project.pdb
+D:\Project\Project\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Project\Project\obj\Debug\Interop.VBIDE.dll
+D:\Project\Project\obj\Debug\Project.csproj.ResolveComReference.cache
+D:\Project\Project\obj\Debug\Project.about.resources
+D:\Project\Project\obj\Debug\Project.AddCourse.resources
+D:\Project\Project\obj\Debug\Project.AddDepartment.resources
+D:\Project\Project\obj\Debug\Project.AddQusetion.resources
+D:\Project\Project\obj\Debug\Project.ForgetPassword.resources
+D:\Project\Project\obj\Debug\Project.AdminPanel.resources
+D:\Project\Project\obj\Debug\Project.AddTeacher.resources
+D:\Project\Project\obj\Debug\Project.FrmChapters.resources
+D:\Project\Project\obj\Debug\Project.FrmExamPaper.resources
+D:\Project\Project\obj\Debug\Project.FrmPersonelsCourses.resources
+D:\Project\Project\obj\Debug\Project.FrmReports.resources
+D:\Project\Project\obj\Debug\Project.Login.resources
+D:\Project\Project\obj\Debug\Project.Semester.resources
+D:\Project\Project\obj\Debug\Project.TeacherMenu.resources
+D:\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
